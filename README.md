@@ -5,16 +5,16 @@ Here we provide a comprehensive Power BI dashboard project centered around analy
 Collected the 2015 Flight Delays and Cancellations dataset from Kaggle,
 Used a Python script to fetch and maintain the dataset in a designated folder
 Cleaned the dataset using Power Query within Power BI.
-[Python Script] ![Python Script](https://github.com/Tarek-Ibrahim20/Air-Delay-Dashboard/blob/22a9b07cb094f86a19382689c701798f920a2d57/Python%20Script.png)
+[Python Script]![Python Script](https://github.com/Tarek-Ibrahim20/Air-Delay-Dashboard/blob/22a9b07cb094f86a19382689c701798f920a2d57/Python%20Script.png)
 
 ## Data Modeling and Analysis:
 Created a robust data model within Power BI to facilitate in-depth analysis.
 Developed DAX measures to enhance data analysis capabilities.
 Visualized data insights using advanced features of Power BI.
-[Data Model] ![Data model](https://github.com/Tarek-Ibrahim20/Air-Delay-Dashboard/blob/6a44a4ed7d75a317b66a6c92ecfe31d72b21ef01/Data%20Model%20%26%20DAX%20.png)
+[Data Model]![Data model](https://github.com/Tarek-Ibrahim20/Air-Delay-Dashboard/blob/6a44a4ed7d75a317b66a6c92ecfe31d72b21ef01/Data%20Model%20%26%20DAX%20.png)
 ## Dashboard:
 ### Overview Dashboard: Provides a holistic view of airlines, airports, total flights, flight distribution by airline and airport, and monthly flight and cancellation trends. Includes interactive filters for enhanced user experience.
-[Overview Dashboard] ![Overview Dashboard] (https://github.com/Tarek-Ibrahim20/Air-Delay-Dashboard/blob/0a05c44d8dd9b70a683cfff652bb9313f69230e9/Overview%20Dashboard.png)
+[Overview Dashboard]![Overview Dashboard](https://github.com/Tarek-Ibrahim20/Air-Delay-Dashboard/blob/0a05c44d8dd9b70a683cfff652bb9313f69230e9/Overview%20Dashboard.png)
 ### Cancellation Analysis Dashboard:
 Analyzed cancellation flights with a focus on cancellation percentages, reasons for cancellations, and trends over months.
 Visualized data through charts depicting cancellation flights by airport and reasons.
