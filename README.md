@@ -18,7 +18,7 @@ Visualized data insights using advanced features of Power BI.
 ### Cancellation Analysis Dashboard:
 Analyzed cancellation flights with a focus on cancellation percentages, reasons for cancellations, and trends over months.
 Visualized data through charts depicting cancellation flights by airport and reasons.
-
+[Cancellation Report] ![Cancellation](https://github.com/Tarek-Ibrahim20/Air-Delay-Dashboard/blob/250e5f48e59ebb6f1b65958cfd498a523b5b33fa/Cancellation%20Dashboard.png)
 ### Delay Analysis Dashboard:
 Explored average arrival and departure delays monthly.
 Calculated average delay times for each airport and identified the top 5 airports with the highest departure delays.
