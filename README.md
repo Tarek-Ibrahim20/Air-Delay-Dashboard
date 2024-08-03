@@ -11,7 +11,7 @@ Cleaned the dataset using Power Query within Power BI.
 Created a robust data model within Power BI to facilitate in-depth analysis.
 Developed DAX measures to enhance data analysis capabilities.
 Visualized data insights using advanced features of Power BI.
-
+[Data Model] ![Data model]()
 ## Dashboard:
 ### Overview Dashboard: Provides a holistic view of airlines, airports, total flights, flight distribution by airline and airport, and monthly flight and cancellation trends. Includes interactive filters for enhanced user experience.
 
