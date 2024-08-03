@@ -5,7 +5,7 @@ Here we provide a comprehensive Power BI dashboard project centered around analy
 Collected the 2015 Flight Delays and Cancellations dataset from Kaggle,
 Used a Python script to fetch and maintain the dataset in a designated folder
 Cleaned the dataset using Power Query within Power BI.
-[Python Script]![Python Script]()
+[Python Script]![Python Script](https://github.com/Tarek-Ibrahim20/US-Delay-Flights-Analysis-Power-BI/blob/0316343e6c66ad9ad578d6e2b2d59e9fd3fcef0c/Python%20Script.png)
 
 ## Data Modeling and Analysis:
 Created a robust data model within Power BI to facilitate in-depth analysis.
