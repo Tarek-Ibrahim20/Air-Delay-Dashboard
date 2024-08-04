@@ -32,6 +32,9 @@ Created a detailed breakdown of delay times for each airline.
 Utilized a map chart to geolocate US airports and visualize flight volumes for each location.
 [Map] ![Map](https://github.com/Tarek-Ibrahim20/Air-Delay-Dashboard/blob/c02494a3ebdd443138163ef4cab666f645b69076/Map%20Report.png)
 This project showcases the power of Power BI in transforming raw data into actionable insights, offering a deep dive into the complexities of flight operations and delays.
+### Project File
+here is the pbx file, feel free to download it on your locl device to interact with it
+https://1drv.ms/u/c/2fadf0e7763a5ead/EcYRbZ-xhZFHn2ptNGR5Z-EBV_0Fm9DoFFRQLP4jlGMPjA?e=6gcHU9
 
 ## Feel free to contact me for any info
 ### LinkdIn: [linkedin.com/in/tarek-ebrahim20](https://www.linkedin.com/in/tarek-ebrahim20)
